@@ -31,7 +31,7 @@ not require large-scale synthetic training data to converge.
 
 ## Licence
 * The dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
-* If you use the dataset or the framework feel free to cite our work.
+* If you use the dataset or the framework feel free to cite our work (paper link will be shared in the future).
 
 ## Acknowledgements
 A. Kerim is supported by the Faculty of Science and Technology - Lancaster University.
