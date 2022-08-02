@@ -1,7 +1,7 @@
 # Leveraging Synthetic Data to Learn Video Stabilization Under Adverse Conditions
 
 
-<img src='https://github.com/A-Kerim/Leveraging-Synthetic-Data-to-Learn-Video-Stabilization-Under-Adverse-Conditions/blob/0c8ce7dfbc86b32aa7dac9df40d2371fe85d9bd0/images/introduction.pdf'>
+<img src='https://github.com/A-Kerim/Leveraging-Synthetic-Data-to-Learn-Video-Stabilization-Under-Adverse-Conditions/blob/3b137bb787e74e5a81e377918b96559e4a3c1130/imgs/introduction.png'>
 Our key idea is to use specially-designed synthetic data to train an affine transformation
 matrix estimation CNN.
 
