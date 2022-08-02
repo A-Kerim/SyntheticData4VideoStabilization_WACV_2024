@@ -31,4 +31,4 @@ Hence, our video stabilization model generalizes well on real-world videos and d
 not require large-scale synthetic training data to converge.
 
 ## Acknowledgements
-A. Kerim is supported by FST studenship, Lancaster University.
+A. Kerim is supported by the Faculty of Science and Technology - Lancaster University.
