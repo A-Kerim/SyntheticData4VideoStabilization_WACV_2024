@@ -5,11 +5,6 @@
 Our key idea is to use specially-designed synthetic data to train an affine transformation
 matrix estimation CNN.
 
-## Contact Authors
-Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
-
-Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
-
 ## Abstract
 Video stabilization plays a central role to improve videos quality. However, despite
 the substantial progress made by these methods, they were, mainly, tested under
@@ -29,6 +24,14 @@ we achieve the best performance in terms of stability average score, distortion 
 success rate, and average cropping ratio when considering all weather conditions.
 Hence, our video stabilization model generalizes well on real-world videos and does
 not require large-scale synthetic training data to converge.
+
+## Contact Authors
+* Abdulrahman Kerim, PhD Student, at Lancaster University, a.kerim@lancaster.ac.uk
+* Leandro Soriano Marcolino, Lecturer at Lancaster University, l.marcolino@lancaster.ac.uk
+* 
+## Licence
+* The dataset and the framework are made freely available to academic and non-commercial purposes. They are provided “AS IS” without any warranty.   
+* If you use the dataset or the framework feel free to cite our work.
 
 ## Acknowledgements
 A. Kerim is supported by the Faculty of Science and Technology - Lancaster University.
