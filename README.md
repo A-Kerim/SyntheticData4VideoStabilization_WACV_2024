@@ -6,24 +6,7 @@ Our key idea is to use specially-designed synthetic data to train an affine tran
 matrix estimation CNN.
 
 ## Abstract
-Video stabilization plays a central role to improve videos quality. However, despite
-the substantial progress made by these methods, they were, mainly, tested under
-standard weather and lighting conditions, and may perform poorly under adverse
-conditions. In this paper, we propose a synthetic-aware adverse weather robust
-algorithm for video stabilization that does not require real data and can be
-trained only on synthetic data. We also present Silver, a novel rendering engine
-to generate the required training data with an automatic ground-truth extraction
-procedure. Our approach uses the specially generated synthetic data for training an
-affine transformation matrix estimator avoiding the feature extraction issues faced by
-current methods. Additionally, since no video stabilization datasets under adverse
-conditions are available, we propose the novel VSAC105Real dataset for evaluation.
-We compare our method to five state-of-the-art video stabilization algorithms using
-two benchmarks. Our results show that current approaches perform poorly in at least
-one weather condition, and, even training in a small dataset with synthetic data only,
-we achieve the best performance in terms of stability average score, distortion score,
-success rate, and average cropping ratio when considering all weather conditions.
-Hence, our video stabilization model generalizes well on real-world videos and does
-not require large-scale synthetic training data to converge.
+Stabilization plays a central role in improving the quality of videos. However, current methods perform poorly under adverse conditions. In this paper, we propose a synthetic-aware adverse weather video stabilization algorithm that dispenses real data for training, relying solely on synthetic data. Our approach leverages specially generated synthetic data to avoid the feature extraction issues faced by current methods. To achieve this, we present a novel data generator to produce the required training data with an automatic ground-truth extraction procedure. We also propose a new dataset, VSAC105Real, and compare our method to five recent video stabilization algorithms using two benchmarks. Our method generalizes well on real-world videos across all weather conditions and does not require large-scale synthetic training data. 
 
 
 ## Code, Datasets, and Simulator
